@@ -1,2 +1,2 @@
 # Creative-Website-Designs
-Discover the perfect blend of creativity and functionality in my Figma designs for websites and Android apps
+Crafted with precision and innovation, my Figma designs seamlessly blend form and function, offering captivating solutions for both website and Android app interfaces. Each pixel meticulously placed, every interaction meticulously considered, these designs represent a harmonious marriage of aesthetics and usability. From sleek website layouts to intuitive mobile experiences, my creations in Figma promise to elevate user engagement and redefine digital excellence.
